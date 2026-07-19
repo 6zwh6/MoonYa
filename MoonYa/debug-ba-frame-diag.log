@@ -1,0 +1,6072 @@
+﻿=== [2026-07-05 23:02:20.856] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:02:31.308] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:02:31.604] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:02:33.311] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:02:33.550] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:02:34.853] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:02:38.957] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 0
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:02:40.791] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 30
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:03:01.702] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 36
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:03:14.405] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 76
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:03:16.479] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 76
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:03:23.998] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:03:37.651] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:03:39.195] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:03:50.352] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:04:03.723] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:04:05.977] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:04:08.289] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:04:10.603] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:04:13.849] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:04:24.210] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:04:25.692] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:04:38.062] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:04:55.815] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:05:07.021] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:05:07.319] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 108
+InModal: 108
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:05:09.763] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 108
+InModal: 108
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:17:16.310] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:17:26.555] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:17:26.791] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:17:28.407] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:17:28.655] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:17:30.791] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:17:46.785] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 36
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:17:48.193] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 36
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:18:01.171] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 76
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:18:02.936] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 76
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:18:10.683] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:18:12.486] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:18:22.970] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:18:39.755] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:18:55.316] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:19:06.525] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:19:08.409] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:19:20.229] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:19:27.493] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:19:29.415] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:19:40.903] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:19:43.159] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:19:53.800] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: True
+FrameRetryCount: 1
+TotalElements before sorting: 106
+InModal: 106
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:29:54.554] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:30:05.022] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:30:05.264] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:30:06.642] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:30:06.876] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:30:08.411] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:30:44.402] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 36
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:30:55.127] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 36
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:31:23.361] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 36
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:31:30.605] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 36
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:31:55.787] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 36
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:32:24.813] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 36
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:32:31.570] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 36
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:32:45.169] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 0
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:32:46.308] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 0
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:32:47.443] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 0
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:32:48.579] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 0
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:32:50.922] GetElementsAsync diag ===
+PageFrames count (excl main): 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 0
+InModal: 0
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:33:42.419] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 76
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:33:52.620] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 76
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:34:03.591] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 76
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:34:14.583] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 76
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:34:25.827] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 76
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:34:50.042] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 76
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:34:57.604] GetElementsAsync diag ===
+PageFrames count (excl main): 1
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 76
+InModal: 21
+InFrame: 0
+=== end ===
+=== [2026-07-05 23:53:17.346] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:53:28.495] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:53:29.356] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:53:30.039] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:53:30.900] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:53:33.011] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:54:31.098] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305206
+TotalDomCount: 2216
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:54:42.324] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305203
+TotalDomCount: 2216
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:55:10.701] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305204
+TotalDomCount: 2216
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:55:18.208] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305203
+TotalDomCount: 2216
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:55:43.802] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305204
+TotalDomCount: 2216
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:56:11.531] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305208
+TotalDomCount: 2216
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:56:19.286] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305206
+TotalDomCount: 2216
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:56:45.010] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305995
+TotalDomCount: 2220
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:57:32.678] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software; about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  Frame[https://162.251.93.209:20484/software] attempt#2: PuppeteerException: Execution Context is not available in detached frame "https://162.251.93.209:20484/software" (are you trying to evaluate?)
+=== end ===
+=== [2026-07-05 23:57:50.590] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:58:01.470] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:58:12.612] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:58:23.351] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:58:34.987] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:58:59.039] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:59:06.383] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:59:31.811] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-05 23:59:57.030] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:00:04.216] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:00:29.701] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:01:12.061] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:01:22.904] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:01:30.565] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:01:56.104] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:02:58.879] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:03:11.837] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:03:12.692] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:03:14.697] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:03:15.555] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:03:17.641] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:03:25.353] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:03:28.043] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:03:30.669] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:03:33.355] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:03:35.543] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:04:01.472] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:04:04.189] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:04:18.073] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:04:25.518] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:04:28.258] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:04:30.939] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:04:33.570] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:04:47.592] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:04:50.174] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:04:57.626] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:05:00.308] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21090
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 7
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:05:16.001] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:05:27.872] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:05:28.729] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:05:29.410] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:05:30.211] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:05:32.275] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:06:34.310] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software; about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  Frame[https://162.251.93.209:20484/software] attempt#4: PuppeteerException: Execution Context is not available in detached frame "https://162.251.93.209:20484/software" (are you trying to evaluate?)
+=== end ===
+=== [2026-07-06 00:06:42.924] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software; about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  Frame[https://162.251.93.209:20484/software] attempt#3: PuppeteerException: Execution Context is not available in detached frame "https://162.251.93.209:20484/software" (are you trying to evaluate?)
+=== end ===
+=== [2026-07-06 00:07:09.530] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:07:20.183] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:07:31.180] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:07:42.241] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:07:53.558] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:08:12.968] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:08:20.212] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:08:45.525] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:09:14.370] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292177
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:09:15.599] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292177
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  Retry#5: FrameCount increased 1 -> 2, wait 300ms
+=== end ===
+=== [2026-07-06 00:09:49.594] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292178
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:10:00.195] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292178
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:10:11.205] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292178
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:10:22.190] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292178
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:10:34.204] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292178
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:11:08.231] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292178
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:11:19.660] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292178
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:11:28.268] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292178
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:11:42.918] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/add
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 182566
+TotalDomCount: 888
+InteractiveElementCount (page): 25
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 15
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:11:55.038] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  Retry#5: FrameCount increased 1 -> 2, wait 300ms
+=== end ===
+=== [2026-07-06 00:12:30.217] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:12:42.198] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:12:52.174] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:13:03.201] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:13:14.610] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:13:40.267] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:13:48.196] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:14:13.739] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:14:55.292] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:15:05.385] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/add_site
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 182566
+TotalDomCount: 888
+InteractiveElementCount (page): 25
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:15:06.130] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/add_site
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 182566
+TotalDomCount: 888
+InteractiveElementCount (page): 25
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 15
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:15:12.505] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 182795
+TotalDomCount: 893
+InteractiveElementCount (page): 25
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:15:55.603] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:16:06.209] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:16:17.174] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:16:28.238] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292220
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:16:39.622] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:17:08.605] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 00:17:16.443] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292176
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 5
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:16:12.488] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:16:23.831] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:16:24.451] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:16:44.630] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305206
+TotalDomCount: 2216
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:17:00.896] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 292306
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:17:15.994] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312343
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:17:23.970] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312343
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:17:52.644] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312343
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:18:01.250] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312343
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:18:30.935] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312343
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:18:37.578] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312343
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:18:52.128] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312343
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:18:58.792] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312343
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:19:13.447] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292170
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:19:28.493] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312188
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:19:47.337] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312188
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-06 13:19:55.526] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312188
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-08 20:32:40.329] GetElementsAsync diag ===
+PageURL: https://www.douyin.com/jingxuan
+FrameCount (excl main): 2
+FrameURLs: https://lf-zt.douyin.com/obj/uc-assets/zt/@byted/x-storage-web/4.0.3/dist/latest/index.html | https://lf-rc1.yhgfb-cn-static.com/obj/rc-verifycenter/rmc-nocaptcha/1.0.0.40/index.html
+BodyHtmlLength: 1451275
+TotalDomCount: 2525
+InteractiveElementCount (page): 56
+ModalCount (page): 18
+ShadowRootCount: 0
+IframesInDOM: 2
+IframesInDOM details: nocaptcha-container=https://lf-rc1.yhgfb-cn-static.com/obj/rc-verifycenter/rmc-nocaptcha/1.0.0.40/index.html; =https://lf-zt.douyin.com/obj/uc-assets/zt/@byted/x-storage-web/4.0.3/dist/latest/index.html
+CollectedFrameURLs: https://lf-zt.douyin.com/obj/uc-assets/zt/@byted/x-storage-web/4.0.3/dist/latest/index.html; https://lf-rc1.yhgfb-cn-static.com/obj/rc-verifycenter/rmc-nocaptcha/1.0.0.40/index.html
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 63
+InModal: 44
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:29:00.614] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:29:12.334] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:29:14.502] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:29:35.718] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305317
+TotalDomCount: 2217
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:29:50.210] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305318
+TotalDomCount: 2217
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:29:56.855] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305314
+TotalDomCount: 2217
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:30:04.916] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305317
+TotalDomCount: 2217
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:30:34.232] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292168
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:30:49.328] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312186
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:30:57.199] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312186
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:31:25.236] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312186
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:31:33.011] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312186
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:31:50.091] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312186
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:31:58.442] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312186
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:32:06.478] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312186
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:32:30.178] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312186
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:32:36.824] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312186
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:32:51.813] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312186
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:32:58.464] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312195
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:33:15.317] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 292168
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:33:30.862] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312186
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:33:39.286] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 312186
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 11:34:05.324] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 12:59:14.330] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-10 21:59:34.430] GetElementsAsync diag ===
+PageURL: about:blank
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 0
+TotalDomCount: 3
+InteractiveElementCount (page): 0
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 0
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:35:31.882] GetElementsAsync diag ===
+PageURL: https://ai.yueyaxuan.cn/
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 852532
+TotalDomCount: 647
+InteractiveElementCount (page): 82
+ModalCount (page): 28
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 27
+InModal: 1
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:35:46.942] GetElementsAsync diag ===
+PageURL: https://ai.yueyaxuan.cn/
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 852597
+TotalDomCount: 647
+InteractiveElementCount (page): 82
+ModalCount (page): 28
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 41
+InModal: 15
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:35:55.302] GetElementsAsync diag ===
+PageURL: https://ai.yueyaxuan.cn/
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 852640
+TotalDomCount: 647
+InteractiveElementCount (page): 82
+ModalCount (page): 28
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 38
+InModal: 12
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:35:59.522] GetElementsAsync diag ===
+PageURL: https://ai.yueyaxuan.cn/
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 852640
+TotalDomCount: 647
+InteractiveElementCount (page): 82
+ModalCount (page): 28
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 38
+InModal: 12
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:36:01.033] GetElementsAsync diag ===
+PageURL: https://ai.yueyaxuan.cn/
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 852640
+TotalDomCount: 647
+InteractiveElementCount (page): 82
+ModalCount (page): 28
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 38
+InModal: 12
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:36:09.417] GetElementsAsync diag ===
+PageURL: https://ai.yueyaxuan.cn/
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 1795377
+TotalDomCount: 4455
+InteractiveElementCount (page): 399
+ModalCount (page): 28
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 344
+InModal: 1
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:36:34.297] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:36:46.815] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:36:47.622] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:37:09.222] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305322
+TotalDomCount: 2217
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 53
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:37:25.594] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 292316
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 99
+InModal: 21
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:37:42.372] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312353
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:37:50.751] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312353
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:38:24.217] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312353
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:38:32.385] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312353
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:38:40.931] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312353
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:38:56.981] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312353
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:39:03.766] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312353
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:39:11.904] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312353
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-11 21:42:14.455] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312353
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 138
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:31:38.086] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:31:51.153] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:31:51.960] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:32:12.897] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305317
+TotalDomCount: 2217
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 53
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:32:30.245] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 292296
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 99
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:32:45.538] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312333
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 39
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:33:13.069] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312333
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 39
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:33:35.404] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312420
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 139
+InModal: 39
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:33:52.148] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 299076
+TotalDomCount: 2195
+InteractiveElementCount (page): 110
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 102
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:34:04.059] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 276914
+TotalDomCount: 1937
+InteractiveElementCount (page): 165
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 90
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:34:15.713] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 279265
+TotalDomCount: 1971
+InteractiveElementCount (page): 165
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 90
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:34:22.493] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 279265
+TotalDomCount: 1971
+InteractiveElementCount (page): 165
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 90
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:34:35.204] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 279265
+TotalDomCount: 1971
+InteractiveElementCount (page): 165
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 90
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:34:41.950] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 279265
+TotalDomCount: 1971
+InteractiveElementCount (page): 165
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 90
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:34:58.899] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 299092
+TotalDomCount: 2197
+InteractiveElementCount (page): 110
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 102
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:35:10.756] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 276914
+TotalDomCount: 1937
+InteractiveElementCount (page): 165
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 90
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:35:22.437] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 279265
+TotalDomCount: 1971
+InteractiveElementCount (page): 165
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 90
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:35:29.218] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 279265
+TotalDomCount: 1971
+InteractiveElementCount (page): 165
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 90
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:35:42.440] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 279265
+TotalDomCount: 1971
+InteractiveElementCount (page): 165
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 90
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:35:49.223] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 279265
+TotalDomCount: 1971
+InteractiveElementCount (page): 165
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 90
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 09:36:01.665] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 279265
+TotalDomCount: 1971
+InteractiveElementCount (page): 165
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 90
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 10:21:25.092] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 10:21:34.536] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 10:21:35.357] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 10:21:55.875] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305313
+TotalDomCount: 2217
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 53
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 10:22:12.283] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 304400
+TotalDomCount: 2255
+InteractiveElementCount (page): 119
+ModalCount (page): 10
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 102
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 10:54:15.191] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 10:54:26.756] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 10:54:27.569] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 21098
+TotalDomCount: 148
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 10:54:47.701] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305309
+TotalDomCount: 2217
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 53
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 10:55:03.482] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 292302
+TotalDomCount: 2119
+InteractiveElementCount (page): 107
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 99
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 10:55:18.749] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312339
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 39
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 10:55:45.192] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312339
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 138
+InModal: 39
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 10:56:03.300] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 312426
+TotalDomCount: 2311
+InteractiveElementCount (page): 118
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 139
+InModal: 39
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 10:56:19.509] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 299082
+TotalDomCount: 2195
+InteractiveElementCount (page): 110
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 102
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-12 10:56:43.430] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 299082
+TotalDomCount: 2195
+InteractiveElementCount (page): 110
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 99
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  Frame[https://162.251.93.209:20484/software] attempt#1: TimeoutException: Timeout of 180000 ms exceeded
+  Frame[https://162.251.93.209:20484/site/php] attempt#1: PuppeteerException: Execution Context is not available in detached frame "https://162.251.93.209:20484/site/php" (are you trying to evaluate?)
+=== end ===
+=== [2026-07-13 21:22:23.288] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 20712
+TotalDomCount: 174
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-13 21:22:38.225] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 20712
+TotalDomCount: 174
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-13 21:22:40.290] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 20712
+TotalDomCount: 174
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-13 21:23:00.784] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 304993
+TotalDomCount: 2225
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 53
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-13 21:23:17.636] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 298951
+TotalDomCount: 2206
+InteractiveElementCount (page): 110
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 102
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-13 21:23:33.351] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 318988
+TotalDomCount: 2398
+InteractiveElementCount (page): 121
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 141
+InModal: 39
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-13 21:23:42.704] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 319075
+TotalDomCount: 2398
+InteractiveElementCount (page): 121
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 142
+InModal: 39
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-13 21:23:59.796] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305731
+TotalDomCount: 2282
+InteractiveElementCount (page): 113
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 105
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-13 21:24:12.803] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 279284
+TotalDomCount: 1982
+InteractiveElementCount (page): 173
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 92
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-13 21:24:24.719] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 281757
+TotalDomCount: 2019
+InteractiveElementCount (page): 175
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 95
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-13 21:24:31.895] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 281757
+TotalDomCount: 2019
+InteractiveElementCount (page): 175
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 95
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-13 21:24:43.453] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 284185
+TotalDomCount: 2055
+InteractiveElementCount (page): 175
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 105
+InModal: 13
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-13 21:24:55.906] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 265043
+TotalDomCount: 1771
+InteractiveElementCount (page): 118
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 77
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-13 21:25:07.659] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 267221
+TotalDomCount: 1807
+InteractiveElementCount (page): 117
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 87
+InModal: 13
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-13 21:25:24.181] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/files
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 309730
+TotalDomCount: 2449
+InteractiveElementCount (page): 175
+ModalCount (page): 10
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 130
+InModal: 56
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-15 00:51:14.301] GetElementsAsync diag ===
+PageURL: about:blank
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 0
+TotalDomCount: 3
+InteractiveElementCount (page): 0
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 0
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-15 00:51:18.608] GetElementsAsync diag ===
+PageURL: about:blank
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 0
+TotalDomCount: 3
+InteractiveElementCount (page): 0
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 0
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-16 22:02:43.632] GetElementsAsync diag ===
+PageURL: about:blank
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 0
+TotalDomCount: 3
+InteractiveElementCount (page): 0
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 0
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-16 22:08:17.232] GetElementsAsync diag ===
+PageURL: https://www.baidu.com/
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 416768
+TotalDomCount: 526
+InteractiveElementCount (page): 94
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 47
+InModal: 7
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-16 22:09:16.919] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/
+FrameCount (excl main): 1
+FrameURLs: https://cn.bing.com/identity/idtokenv2
+BodyHtmlLength: 164570
+TotalDomCount: 532
+InteractiveElementCount (page): 85
+ModalCount (page): 1
+ShadowRootCount: 2
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 277
+InModal: 3
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:09:27.357] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/
+FrameCount (excl main): 1
+FrameURLs: https://cn.bing.com/identity/idtokenv2
+BodyHtmlLength: 164570
+TotalDomCount: 532
+InteractiveElementCount (page): 85
+ModalCount (page): 1
+ShadowRootCount: 2
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 277
+InModal: 3
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:09:38.316] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/
+FrameCount (excl main): 1
+FrameURLs: https://cn.bing.com/identity/idtokenv2
+BodyHtmlLength: 164556
+TotalDomCount: 532
+InteractiveElementCount (page): 85
+ModalCount (page): 1
+ShadowRootCount: 2
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 277
+InModal: 3
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:09:49.356] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/
+FrameCount (excl main): 1
+FrameURLs: https://cn.bing.com/identity/idtokenv2
+BodyHtmlLength: 164556
+TotalDomCount: 532
+InteractiveElementCount (page): 85
+ModalCount (page): 1
+ShadowRootCount: 2
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 277
+InModal: 3
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:10:06.470] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/
+FrameCount (excl main): 1
+FrameURLs: https://cn.bing.com/identity/idtokenv2
+BodyHtmlLength: 164556
+TotalDomCount: 532
+InteractiveElementCount (page): 85
+ModalCount (page): 1
+ShadowRootCount: 2
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 277
+InModal: 3
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:10:30.367] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/
+FrameCount (excl main): 1
+FrameURLs: https://cn.bing.com/identity/idtokenv2
+BodyHtmlLength: 164556
+TotalDomCount: 532
+InteractiveElementCount (page): 85
+ModalCount (page): 1
+ShadowRootCount: 2
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 277
+InModal: 3
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:10:37.219] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/
+FrameCount (excl main): 1
+FrameURLs: https://cn.bing.com/identity/idtokenv2
+BodyHtmlLength: 164556
+TotalDomCount: 532
+InteractiveElementCount (page): 85
+ModalCount (page): 1
+ShadowRootCount: 2
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 277
+InModal: 3
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:11:05.826] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/
+FrameCount (excl main): 1
+FrameURLs: https://cn.bing.com/identity/idtokenv2
+BodyHtmlLength: 164556
+TotalDomCount: 532
+InteractiveElementCount (page): 85
+ModalCount (page): 1
+ShadowRootCount: 2
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 277
+InModal: 3
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:11:27.634] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/
+FrameCount (excl main): 1
+FrameURLs: https://cn.bing.com/identity/idtokenv2
+BodyHtmlLength: 164556
+TotalDomCount: 532
+InteractiveElementCount (page): 85
+ModalCount (page): 1
+ShadowRootCount: 2
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 277
+InModal: 3
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:11:35.234] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/
+FrameCount (excl main): 1
+FrameURLs: https://cn.bing.com/identity/idtokenv2
+BodyHtmlLength: 166476
+TotalDomCount: 552
+InteractiveElementCount (page): 85
+ModalCount (page): 1
+ShadowRootCount: 2
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 277
+InModal: 3
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:11:45.639] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/
+FrameCount (excl main): 1
+FrameURLs: https://cn.bing.com/identity/idtokenv2
+BodyHtmlLength: 166476
+TotalDomCount: 552
+InteractiveElementCount (page): 85
+ModalCount (page): 1
+ShadowRootCount: 2
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 277
+InModal: 3
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:12:37.000] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/
+FrameCount (excl main): 1
+FrameURLs: https://cn.bing.com/identity/idtokenv2
+BodyHtmlLength: 163230
+TotalDomCount: 544
+InteractiveElementCount (page): 87
+ModalCount (page): 1
+ShadowRootCount: 2
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 292
+InModal: 3
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:13:00.084] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/
+FrameCount (excl main): 1
+FrameURLs: https://cn.bing.com/identity/idtokenv2
+BodyHtmlLength: 165149
+TotalDomCount: 564
+InteractiveElementCount (page): 87
+ModalCount (page): 1
+ShadowRootCount: 2
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 292
+InModal: 3
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:13:14.329] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/
+FrameCount (excl main): 1
+FrameURLs: https://cn.bing.com/identity/idtokenv2
+BodyHtmlLength: 197499
+TotalDomCount: 682
+InteractiveElementCount (page): 103
+ModalCount (page): 1
+ShadowRootCount: 2
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 304
+InModal: 3
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:13:21.187] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/
+FrameCount (excl main): 1
+FrameURLs: https://cn.bing.com/identity/idtokenv2
+BodyHtmlLength: 197499
+TotalDomCount: 682
+InteractiveElementCount (page): 103
+ModalCount (page): 1
+ShadowRootCount: 2
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 304
+InModal: 3
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:13:44.175] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/search?q=%E6%9C%88%E9%9B%85%E6%B3%AB
+FrameCount (excl main): 2
+FrameURLs: https://cn.bing.com/identity/idtokenv2 | about:blank
+BodyHtmlLength: 396473
+TotalDomCount: 849
+InteractiveElementCount (page): 107
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2; about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 103
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:13:54.380] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/search?q=%E6%9C%88%E9%9B%85%E6%B3%AB
+FrameCount (excl main): 2
+FrameURLs: https://cn.bing.com/identity/idtokenv2 | about:blank
+BodyHtmlLength: 396473
+TotalDomCount: 849
+InteractiveElementCount (page): 107
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2; about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 104
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:14:05.467] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/search?q=%E6%9C%88%E9%9B%85%E6%B3%AB
+FrameCount (excl main): 2
+FrameURLs: https://cn.bing.com/identity/idtokenv2 | about:blank
+BodyHtmlLength: 396473
+TotalDomCount: 849
+InteractiveElementCount (page): 107
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2; about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 104
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:14:16.572] GetElementsAsync diag ===
+PageURL: https://cn.bing.com/search?q=%E6%9C%88%E9%9B%85%E6%B3%AB
+FrameCount (excl main): 2
+FrameURLs: https://cn.bing.com/identity/idtokenv2 | about:blank
+BodyHtmlLength: 396549
+TotalDomCount: 849
+InteractiveElementCount (page): 107
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: msaSsoFrame=https://cn.bing.com/fd/auth/signin/v2?action=interactive&isSilent=true
+CollectedFrameURLs: https://cn.bing.com/identity/idtokenv2; about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 104
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  CrossOriginIframe: 1 个跨域 iframe 已跳过采集（兜底已移除，元素无法 click）
+=== end ===
+=== [2026-07-16 22:14:43.827] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 20712
+TotalDomCount: 174
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-16 22:14:56.116] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 20712
+TotalDomCount: 174
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-16 22:14:57.023] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 20712
+TotalDomCount: 174
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-16 22:15:01.193] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 567
+TotalDomCount: 20
+InteractiveElementCount (page): 0
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 0
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-16 22:15:10.064] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 304936
+TotalDomCount: 2225
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 0
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+  FrameStabilize: FrameCount 1 -> 2, waiting for render
+=== end ===
+=== [2026-07-16 22:15:19.643] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 182669
+TotalDomCount: 898
+InteractiveElementCount (page): 25
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 0
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-16 22:15:29.415] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 298815
+TotalDomCount: 2206
+InteractiveElementCount (page): 110
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 87
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-16 22:15:48.405] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: about:blank
+BodyHtmlLength: 318837
+TotalDomCount: 2398
+InteractiveElementCount (page): 121
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 126
+InModal: 39
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-16 22:15:57.433] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 0
+TotalDomCount: 0
+InteractiveElementCount (page): 0
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: about:blank
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 127
+InModal: 39
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-16 22:39:37.513] GetElementsAsync diag ===
+PageURL: https://www.baidu.com/
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 416327
+TotalDomCount: 526
+InteractiveElementCount (page): 94
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 48
+InModal: 7
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-16 22:47:19.829] GetElementsAsync diag ===
+PageURL: https://www.baidu.com/
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 416554
+TotalDomCount: 526
+InteractiveElementCount (page): 94
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 49
+InModal: 7
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-17 11:56:58.583] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 20712
+TotalDomCount: 174
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-17 11:57:11.739] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 20712
+TotalDomCount: 174
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-17 11:57:14.754] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/64719636
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 20712
+TotalDomCount: 174
+InteractiveElementCount (page): 17
+ModalCount (page): 1
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 6
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-17 11:57:35.010] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/home
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 304998
+TotalDomCount: 2225
+InteractiveElementCount (page): 87
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 53
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-17 11:57:52.014] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 298955
+TotalDomCount: 2206
+InteractiveElementCount (page): 110
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 102
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-17 11:58:07.334] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 318985
+TotalDomCount: 2398
+InteractiveElementCount (page): 121
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 141
+InModal: 39
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-17 11:58:33.716] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 318985
+TotalDomCount: 2398
+InteractiveElementCount (page): 121
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 141
+InModal: 39
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-17 11:58:51.723] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 319072
+TotalDomCount: 2398
+InteractiveElementCount (page): 121
+ModalCount (page): 11
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 142
+InModal: 39
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-17 11:59:08.710] GetElementsAsync diag ===
+PageURL: https://162.251.93.209:20484/site/php
+FrameCount (excl main): 1
+FrameURLs: https://162.251.93.209:20484/software
+BodyHtmlLength: 305728
+TotalDomCount: 2282
+InteractiveElementCount (page): 113
+ModalCount (page): 3
+ShadowRootCount: 0
+IframesInDOM: 1
+IframesInDOM details: =https://162.251.93.209:20484/software
+CollectedFrameURLs: https://162.251.93.209:20484/software
+CollectedFromAnyFrame: False
+FrameRetryCount: 2
+TotalElements before sorting: 105
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-18 16:44:05.299] GetElementsAsync diag ===
+PageURL: file:///D:/Project/WEB/doubao/%E6%B5%8B%E8%AF%95/furuina-desktop-pet/index.html
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 35744
+TotalDomCount: 45
+InteractiveElementCount (page): 3
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 4
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-18 16:44:14.938] GetElementsAsync diag ===
+PageURL: file:///D:/Project/WEB/doubao/%E6%B5%8B%E8%AF%95/furuina-desktop-pet/index.html
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 35777
+TotalDomCount: 45
+InteractiveElementCount (page): 3
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 4
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-18 16:44:28.011] GetElementsAsync diag ===
+PageURL: file:///D:/Project/WEB/doubao/%E6%B5%8B%E8%AF%95/furuina-desktop-pet/index.html
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 35769
+TotalDomCount: 45
+InteractiveElementCount (page): 3
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 4
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-18 16:44:29.008] GetElementsAsync diag ===
+PageURL: file:///D:/Project/WEB/doubao/%E6%B5%8B%E8%AF%95/furuina-desktop-pet/index.html
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 35769
+TotalDomCount: 45
+InteractiveElementCount (page): 3
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 4
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===
+=== [2026-07-18 16:44:39.404] GetElementsAsync diag ===
+PageURL: file:///D:/Project/WEB/doubao/%E6%B5%8B%E8%AF%95/furuina-desktop-pet/index.html
+FrameCount (excl main): 0
+FrameURLs: 
+BodyHtmlLength: 35783
+TotalDomCount: 45
+InteractiveElementCount (page): 3
+ModalCount (page): 0
+ShadowRootCount: 0
+IframesInDOM: 0
+IframesInDOM details: 
+CollectedFrameURLs: 
+CollectedFromAnyFrame: False
+FrameRetryCount: 1
+TotalElements before sorting: 4
+InModal: 0
+InFrame: 0
+PerDocumentLimit: 2000
+MaxReturnedElements: 120
+=== end ===

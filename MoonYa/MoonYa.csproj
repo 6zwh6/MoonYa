@@ -1,0 +1,118 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows10.0.19041.0</TargetFramework>
+    <RootNamespace>MoonYa</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Platforms>x86;x64;ARM64</Platforms>
+    <RuntimeIdentifiers>win-x86;win-x64;win-arm64</RuntimeIdentifiers>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <WindowsSdkPackageRevision>0</WindowsSdkPackageRevision>
+  </PropertyGroup>
+
+  <!-- Publish Properties -->
+  <PropertyGroup>
+    <PublishReadyToRun Condition="'$(Configuration)' == 'Debug'">False</PublishReadyToRun>
+    <PublishReadyToRun Condition="'$(Configuration)' != 'Debug'">True</PublishReadyToRun>
+    <PublishTrimmed>False</PublishTrimmed>
+    <ApplicationIcon>yax_rounded.ico</ApplicationIcon>
+    <SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x86'">
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x86'">
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|ARM64'">
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="CefSharp.Wpf.NETCore" Version="147.0.100" />
+    <PackageReference Include="System.Speech" Version="10.0.9" />
+    <PackageReference Include="PuppeteerSharp" Version="20.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="yax_rounded.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\fnn-q.png" />
+    <Resource Include="Assets\pet_base.png" />
+    <Resource Include="Assets\pet_head.png" />
+    <Resource Include="Assets\pet_head_ec.png" />
+    <Resource Include="Assets\pet_head_mc.png" />
+    <Resource Include="Assets\pet_side_l.png" />
+    <Resource Include="Assets\pet_side_r.png" />
+    <Resource Include="Assets\pet_side_l_a.png" />
+    <Resource Include="Assets\pet_side_l_b.png" />
+    <Resource Include="Assets\pet_side_r_a.png" />
+    <Resource Include="Assets\pet_side_r_b.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Assets\pet_bubbles.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="launcher_config.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="python\**\*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <LinkBase>python\</LinkBase>
+    </None>
+  </ItemGroup>
+
+  <!-- ── 复制 PHP 后端文件 (MoonYa-Backend) 到输出目录的 wwwroot ── -->
+  <Target Name="CopyWwwroot" AfterTargets="AfterBuild">
+    <ItemGroup>
+      <_WwwrootFiles Include="$(ProjectDir)..\..\..\MoonYa-Backend\**\*" />
+    </ItemGroup>
+    <Copy SourceFiles="@(_WwwrootFiles)" DestinationFiles="$(OutDir)wwwroot\%(RecursiveDir)%(Filename)%(Extension)" SkipUnchangedFiles="True" OverwriteReadOnlyFiles="True" />
+  </Target>
+
+  <!-- ── 复制 CefSharp native 文件到 bin 根目录 ──
+       修复: CefSharp.Wpf.NETCore 147 + .NET 8 + dotnet 10 SDK 会把 libcef.dll /
+       Ijwhost.dll / CefSharp.BrowserSubprocess.exe 等 native 文件放到 win-x64\
+       子目录，但 Windows DLL 加载器不会跨子目录搜索 → 运行时抛
+       "Could not load file or assembly '...CefSharp.Core.Runtime.dll'. 找不到指定的模块。"
+       解决办法：构建后把 win-x64\* 平铺到 $(OutDir) 根目录。
+  -->
+  <Target Name="FlattenCefSharpNative" AfterTargets="AfterBuild" Condition="Exists('$(OutDir)win-x64')">
+    <ItemGroup>
+      <_CefNativeFiles Include="$(OutDir)win-x64\**\*" Exclude="$(OutDir)win-x64\**\locales\**" />
+    </ItemGroup>
+    <Copy SourceFiles="@(_CefNativeFiles)"
+          DestinationFiles="$(OutDir)%(RecursiveDir)%(Filename)%(Extension)"
+          SkipUnchangedFiles="True"
+          OverwriteReadOnlyFiles="True" />
+  </Target>
+
+</Project>
