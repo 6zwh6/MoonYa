@@ -481,5 +481,5 @@ MoonYa/
 ---
 
 <p align="center">
-  MoonYa · 让 AI 从"回答者"变成"执行者"
+  MoonYa · 让 AI 从"回答者"变成"操作电脑者"
 </p>
