@@ -1,0 +1,7 @@
+# MoonYa Python 后端统一依赖
+# 安装: pip install -r requirements.txt
+# 额外步骤: playwright install chromium
+
+crawl4ai>=0.8.0
+aiohttp>=3.11.0
+jsbeautifier>=1.15.0

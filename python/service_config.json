@@ -1,0 +1,7 @@
+{
+  "host": "0.0.0.0",
+  "crawler_port": 58901,
+  "data_dir": "",
+  "python_service_domain": "",
+  "backend_api_url": ""
+}
